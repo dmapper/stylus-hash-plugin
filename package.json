@@ -1,6 +1,9 @@
 {
   "name": "@dmapper/stylus-hash-plugin",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "stylus hash plugin",
   "main": "index.js",
   "scripts": {
