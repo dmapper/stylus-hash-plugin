@@ -1,5 +1,5 @@
 {
-  "name": "stylus-hash-plugin",
+  "name": "@dmapper/stylus-hash-plugin",
   "version": "0.0.1",
   "description": "stylus hash plugin",
   "main": "index.js",
